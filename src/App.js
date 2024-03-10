@@ -6,7 +6,7 @@ import React, { useState } from "react";
 import Alert from "./Components/Alert";
 import Footer from "./Components/Footer";
 import Design from "./Components/Design";
-
+// this is a code for app
 function App() {
   const [mode, setmode] = useState("light");
   const [alert, setAlert] = useState("Hi");
